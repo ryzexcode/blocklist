@@ -1,1 +1,1 @@
-||about.gitea.com^
+||gitea.com^
